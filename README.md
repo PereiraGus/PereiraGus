@@ -2,7 +2,7 @@
 
 <img width="95%" src="https://i.imgur.com/71Q0Fdq.jpg">
 <div>
-  - 🌙 Qualquer pronome!
+  - 🌙 Qualquer pronome! <br>
   - 🔭 Estudante na Etec Professor Basilides de Godoy <br>
   - <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5b/Daybloom_%28placed%29.png/revision/latest/scale-to-width-down/35?cb=20171130012635"> Aprendendo HTML, PHP, Javascript, C#, SQL e Java <br>
   - 🚀 Aspirando a se tornar Web Designer <br>
