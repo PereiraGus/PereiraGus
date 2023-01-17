@@ -13,9 +13,9 @@
      <img src= "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Shellphone.png/revision/latest?cb=20220929232652&format=original" width="15px">
      Contato
      <img src= "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Shellphone.png/revision/latest?cb=20220929232652&format=original" width="15px">    </h3>
-   <a href="https://www.instagram.com/photos_by_guss/"><img width="30px" src="https://github.com/catawump/pixel-social-icons/blob/master/instagram.png"></a>
-   <a href="www.linkedin.com/in/guspcastro"><img width="30px" src="https://github.com/catawump/pixel-social-icons/blob/master/linkedin.png"></a>
-   <a href="mailto:gustavo.oito@hotmail.com"><img width="30px" src="https://github.com/catawump/pixel-social-icons/blob/master/email.png"></a>
+   <a target="_blank" href="https://www.instagram.com/photos_by_guss/"><img width="30px" src="https://github.com/catawump/pixel-social-icons/blob/master/instagram.png"></a>
+   <a target="_blank" href="www.linkedin.com/in/guspcastro"><img width="30px" src="https://github.com/catawump/pixel-social-icons/blob/master/linkedin.png"></a>
+   <a target="_blank" href="mailto:gustavo.oito@hotmail.com"><img width="30px" src="https://github.com/catawump/pixel-social-icons/blob/master/email.png"></a>
  </div>
 </div><hr>
 
