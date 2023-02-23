@@ -7,7 +7,7 @@
   - 🚀 Aspirando uma carreira como <strong>Web Designer</strong><br><br>
   - <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Reforge.png/revision/latest?cb=20161017115112" width="18px"> Trabalhos:<br>
   &nbsp&nbsp&nbsp&nbsp• <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Emote_Party_Balloons.gif/revision/latest?cb=20200828151235"><a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso - Website, sistema, aplicativo, designs e +</a><br>
-  &nbsp&nbsp&nbsp&nbsp• <img src="https://terraria.wiki.gg/images/a/a3/Emote_Emote_Happiness.gif"><a href="gruporia.com.br"> Site da companhia de teatro Grupo Ria</a><br>
+  &nbsp&nbsp&nbsp&nbsp• <img src="https://terraria.wiki.gg/images/a/a3/Emote_Emote_Happiness.gif"><a href="https://gruporia.com.br"> Site da companhia de teatro Grupo Ria</a><br>
   <div align="center">
    <h3>
      <img src= "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Shellphone.png/revision/latest?cb=20220929232652&format=original" width="15px">
