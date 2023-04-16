@@ -5,9 +5,12 @@
   - <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5b/Daybloom_%28placed%29.png/revision/latest/scale-to-width-down/35?cb=20171130012635"> Conhecimento em HTML, PHP, CSS, Javascript, C#, ASP.net, SQL e Java <br>
   - <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Paintbrush.png/revision/latest?cb=20200516220138&format=original" width="18px"> Freelancer de sites e sistemas Web<br>
   - 🚀 Aspirando uma carreira como <strong>Web Designer</strong>
-  <h3>- <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Reforge.png/revision/latest?cb=20161017115112" width="18px"> Trabalhos:</h3>
+<br><br>
+  <strong><p><img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/a/af/Achievement_Stop%21_Hammer_Time%21.png" width="18px"> Trabalhos:</p></strong>
   &nbsp&nbsp&nbsp&nbsp• <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Emote_Party_Balloons.gif/revision/latest?cb=20200828151235"><a href="https://github.com/Golden-CompanyS"> Trabalho de Conclusão de Curso - Website, sistema, aplicativo, designs e +</a><br>
-  &nbsp&nbsp&nbsp&nbsp• <img src="https://terraria.wiki.gg/images/a/a3/Emote_Emote_Happiness.gif"><a href="https://gruporia.com.br"> Site da companhia de teatro Grupo Ria</a><br>
+  &nbsp&nbsp&nbsp&nbsp• <img src="https://terraria.wiki.gg/images/a/a3/Emote_Emote_Happiness.gif"><a href="https://gruporia.com.br"> Site da companhia de teatro Grupo Ria</a>
+  <h3><a href="https://github.com/PereiraGus?tab=stars">Veja meus outros projetos aqui no Github</a></h3>
+  <a href="https://github.com/PereiraGus?tab=stars"></a>
   <div align="center">
    <h3>
      <img src= "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Shellphone.png/revision/latest?cb=20220929232652&format=original" width="15px">
