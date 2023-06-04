@@ -2,7 +2,7 @@
 <div>
   - 🔭 <strong>Técnico de Desenvolvimento de Sistemas</strong> formado na <a href="https://basilides.com.br/">Etec Professor Basilides de Godoy</a> <br>
   - <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f3/Book.png/revision/latest?cb=20200516200016&format=original" width="17px"> Cursando <strong>Ciência  da Computação</strong> na <a href="https://www.sptech.school/">São Paulo Tech School</a><br>
-  - <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5b/Daybloom_%28placed%29.png/revision/latest/scale-to-width-down/35?cb=20171130012635"> Conhecimento em HTML, PHP, CSS, Javascript, C#, ASP.net, SQL e Java <br>
+  - <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5b/Daybloom_%28placed%29.png/revision/latest/scale-to-width-down/35?cb=20171130012635"> Conhecimento em HTML, PHP, CSS, Javascript, Node.JS, C#, MVC, ASP.net, SQL e Java <br>
   - <img src="https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c4/Paintbrush.png/revision/latest?cb=20200516220138&format=original" width="18px"> Freelancer de sites e sistemas Web<br>
   - 🚀 Aspirando uma carreira como <strong>Web Designer</strong>
 <br><br>
